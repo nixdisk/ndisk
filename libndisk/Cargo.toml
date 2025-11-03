@@ -1,0 +1,8 @@
+[package]
+name = "libndisk"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libparted= "0.1.5"
+tempfile="3.23.0"
